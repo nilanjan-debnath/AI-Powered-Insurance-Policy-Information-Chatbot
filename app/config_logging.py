@@ -6,7 +6,7 @@ def set_logging_config() -> None:
         level=logging.INFO,
         format="%(asctime)s.%(msecs)03d %(levelname)s %(message)s",
         datefmt="%Y-%m-%d %H:%M:%S",
-        filename="logger.log",
+        filename="data/log/logger.log",
     )
 
     # logging.debug("This is a debug message. ")
