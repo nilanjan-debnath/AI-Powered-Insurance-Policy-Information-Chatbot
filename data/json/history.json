@@ -1,0 +1,94 @@
+{
+    "conv_baaf40ea": [
+        {
+            "type": "human",
+            "content": "Hi"
+        },
+        {
+            "type": "ai",
+            "content": "Hello, I'm an AI assistant for SecureLife Insurance Company. How can I help?"
+        },
+        {
+            "type": "human",
+            "content": "Can you tell me what kind of service availble there?"
+        },
+        {
+            "type": "ai",
+            "content": "We offer life insurance, health insurance, and general insurance."
+        },
+        {
+            "type": "human",
+            "content": "Oo nice"
+        },
+        {
+            "type": "ai",
+            "content": "I'm glad to help. Is there anything else I can assist you with?"
+        },
+        {
+            "type": "human",
+            "content": "What are the prerequisites for insuraces you are providing?"
+        },
+        {
+            "type": "ai",
+            "content": "The prerequisites for our insurance policies include submitting claim forms, the original policy document, a NEFT mandate for direct credit of the claim amount to the bank account, proof of title, proof of death, and medical treatment prior to death (if applicable). If the age is not admitted under the policy, proof of age of the Life Assured must also be submitted."
+        }
+    ],
+    "conv_5b957d95": [
+        {
+            "type": "human",
+            "content": "Tell me about your self"
+        },
+        {
+            "type": "ai",
+            "content": "I am an AI assistant for SecureLife Insurance Company. I can help answer your questions about insurance policies, coverage, premiums and claims. How can I help you today?"
+        },
+        {
+            "type": "human",
+            "content": "I'm thinking of taking a insurance policy"
+        },
+        {
+            "type": "ai",
+            "content": "We offer a range of insurance policies, including life insurance and health insurance. Are you interested in a particular type of insurance policy?"
+        },
+        {
+            "type": "human",
+            "content": "Health insurance"
+        },
+        {
+            "type": "ai",
+            "content": "We offer health insurance as part of our general insurance policies. Unfortunately, I don't have any further information about our health insurance policies. Would you like to be put through to a customer service representative?"
+        },
+        {
+            "type": "human",
+            "content": "Then what about life insurance"
+        },
+        {
+            "type": "ai",
+            "content": "I can tell you about the following life insurance policies:\n- Life Insurance Corporation of India\n- LIC's Jeevan Lakshya\n- LIC's Jeevan Labh\n- LIC's New Jeevan Anand\n- LIC's New Endowment Plan\n\nUnfortunately, I don't have any further information about these life insurance policies. Would you like to be put through to a customer service representative?"
+        },
+        {
+            "type": "human",
+            "content": "Tell me about LIC's New Jeevan Anand"
+        },
+        {
+            "type": "ai",
+            "content": "I can tell you that LIC's New Jeevan Anand Plan has a UIN of 512N279V03. Unfortunately, I don't have any further information about this life insurance policy. Would you like to be put through to a customer service representative?"
+        },
+        {
+            "type": "human",
+            "content": "What are the prerequisites for this policy"
+        },
+        {
+            "type": "ai",
+            "content": "I'm sorry, I couldn't find any information about the prerequisites for this policy. Would you like to be put through to a customer service representative?"
+        },
+        {
+            "type": "human",
+            "content": "Yes"
+        },
+        {
+            "type": "ai",
+            "content": "I will now put you through to a customer service representative."
+        }
+    ]
+}
