@@ -1,6 +1,6 @@
 # This is RAG based AI Agent
 
-### Setup .env file like .evn.example
+### Setup .env file like .env.example
 After adding all the variables follow the instruction to run the project
 
 ## Instruction to run the project
